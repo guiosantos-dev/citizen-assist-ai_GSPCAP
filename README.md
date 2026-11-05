@@ -35,3 +35,30 @@ Facilitar o acesso a informações úteis e confiáveis sobre o mundo do trabalh
 - **JSON:** armazenamento da base de conhecimento, histórico e avaliação.
 - **CSV:** exportação dos atendimentos.
 - **Git e GitHub:** controle de versão e armazenamento do projeto.
+
+## 6. Estrutura do projeto
+
+```text
+citizen-assist-ai/
+│
+├── main.py
+├── orientacao.py
+├── base_conhecimento.py
+├── assistente.py
+│
+├── data/
+│   ├── base_conhecimento.json
+│   ├── historico.json
+│   ├── avaliacao.json
+│   └── atendimentos.csv
+│
+└── README.md
+```
+
+## 7. Como executar o projeto
+
+1. Tenha o Python instalado no computador.
+2. Baixe ou clone o repositório do GitHub.
+3. Abra a pasta do projeto no PyCharm ou em outro editor.
+4. Execute o arquivo `main.py`.
+5. Utilize o menu apresentado no terminal para fazer perguntas, navegar pelas categorias, consultar indicadores e exportar o histórico.
