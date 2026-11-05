@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "categoria": "Documentação",
+        "titulo": "Como emitir a Carteira de Trabalho Digital",
+        "palavras_chave": [
+            "carteira de trabalho",
+            "ctps digital",
+            "primeiro emprego"
+        ],
+        "resposta": "A Carteira de Trabalho Digital pode ser acessada pelo aplicativo ou site oficial do governo.",
+        "documentos": [
+            "CPF"
+        ],
+        "onde": "Aplicativo ou site oficial",
+        "fonte": "https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 2,
+        "categoria": "Documentação",
+        "titulo": "Como tirar o CPF",
+        "palavras_chave": [
+            "tirar cpf",
+            "emitir cpf",
+            "inscricao cpf"
+        ],
+        "resposta": "A primeira via do CPF pode ser solicitada de forma gratuita pela internet ou presencialmente.",
+        "documentos": [
+            "RG",
+            "Certidão"
+        ],
+        "onde": "Através da Inscrição CPF Internet da Receita Federal, ou presencialmente em entidades conveniadas (como Correios, Banco do Brasil, Caixa Econômica Federal ou Cartório de Registro Civil).",
+        "fonte": "https://servicos.receita.fazenda.gov.br/servicos/cpf/inscricaopublica/inscricao.asp",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 3,
+        "categoria": "Documentação",
+        "titulo": "Como tirar o título de eleitor",
+        "palavras_chave": [
+            "tirar o título",
+            "título eleitor",
+            "eleitor"
+        ],
+        "resposta": "O título de eleitor pode ser solicitado de forma gratuita pela internet ou presencialmente.",
+        "documentos": [
+            "RG",
+            "Carteira de Identidade Nacional - CIN",
+            "Passaporte (com filiação)",
+            "Carteira (OAB, CRM, CREA, etc)",
+            "Carteira de Trabalho e Previdência Social - CTPS (Digital não aceita)"
+        ],
+        "onde": "Cartório Eleitoral, posto de atendimento ou preencher formulário de pré-atendimento Título Net, disponível na página do TRE-SP",
+        "fonte": "https://www.tre-sp.jus.br/servicos-eleitorais/carta-de-servicos/primeiro-titulo-de-eleitor",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 4,
+        "categoria": "Trabalho",
+        "titulo": "Como encontrar vagas de jovem aprendiz",
+        "palavras_chave": [
+            "jovem aprendiz",
+            "vagas jovem aprendiz",
+            "encontrar vagas"
+        ],
+        "resposta": "Para encontrar vagas de jovem aprendiz, procure oportunidades em plataformas de recrutamento, entidades de integração e nos sites oficiais das empresas. Cadastre seu currículo, confira os requisitos de cada vaga e verifique se a oportunidade é adequada à sua idade e escolaridade. Nunca pague para participar de um processo seletivo.",
+        "documentos": [
+            "RG (dos pais ou responsável legal em caso de menor de 18)",
+            "CPF (dos pais ou responsável legal em caso de menor de 18)",
+            "Certificado de Alistamento Militar ou de Reservista (homens maiores de 18 anos)",
+            "Título de eleitor (maiores de 18 anos)",
+            "Comprovante de residência",
+            "Comprovante de escolaridade",
+            "Carteira de Trabalho e Previdência Social - CTPS"
+        ],
+        "onde": "CIEE (Centro de Integração Empresa-Escola), Nube, Senac São Paulo, Plataformas de recrutamento e vagas: Sites como Gupy, Catho e Infojobs",
+        "fonte": "Sites das plataformas de recrutamento e vagas (CIEE, Nube, Senac, Gupy, Catho, Infojobs)",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 5,
+        "categoria": "Trabalho",
+        "titulo": "Quais são os direitos do jovem aprendiz",
+        "palavras_chave": [
+            "direitos jovem aprendiz",
+            "direitos aprendiz",
+            "direitos do jovem"
+        ],
+        "resposta": "O jovem aprendiz tem direito a salário proporcional às horas trabalhadas, respeitando o salário mínimo por hora, 13º salário, férias, FGTS com depósito de 2% da remuneração, vale-transporte e registro do contrato de aprendizagem na carteira de trabalho",
+        "documentos": [
+            "Contrato de aprendizagem",
+            "Carteira de Trabalho"
+        ],
+        "onde": "Consulte o Ministério do Trabalho e Emprego ou a entidade responsável pelo programa de aprendizagem.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 6,
+        "categoria": "Trabalho",
+        "titulo": "Como funciona o contrato de aprendizagem",
+        "palavras_chave": [
+            "contrato de aprendizagem",
+            "contrato jovem aprendiz",
+            "duracao contrato aprendiz",
+            "regras aprendiz"
+        ],
+        "resposta": "O contrato de aprendizagem é um contrato de trabalho especial, por prazo determinado, que combina atividades práticas na empresa com formação teórica. Em regra, sua duração máxima é de dois anos. O aprendiz tem direito ao registro na carteira de trabalho e aos direitos trabalhistas previstos na legislação.",
+        "documentos": [
+            "Carteira de Trabalho",
+            "Contrato de aprendizagem"
+        ],
+        "onde": "Empresa contratante e entidade formadora do programa de aprendizagem.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 7,
+        "categoria": "Preparação profissional",
+        "titulo": "Como fazer um currículo para o primeiro emprego",
+        "palavras_chave": [
+            "fazer curriculo",
+            "primeiro emprego",
+            "montar curriculo",
+            "curriculo profissional"
+        ],
+        "resposta": "Para fazer um currículo para o primeiro emprego, informe seus dados de contato, objetivo profissional, escolaridade, cursos realizados e habilidades. Mesmo sem experiência profissional, você pode destacar conhecimentos e atividades escolares.",
+        "documentos": [
+            "Informações pessoais de contato",
+            "Dados de escolaridade",
+            "Certificados de cursos, se houver"
+        ],
+        "onde": "O currículo pode ser elaborado gratuitamente em editores de texto, como Microsoft Word ou Google Docs.",
+        "fonte": "https://prefeitura.sp.gov.br/web/desenvolvimento/w/dicas/preparar_um_curriculo/619",
+
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 8,
+        "categoria": "Preparação profissional",
+        "titulo": "Como se preparar para uma entrevista de emprego?",
+        "palavras_chave": [
+          "entrevista de emprego",
+          "preparar entrevista",
+          "primeiro emprego",
+          "perguntas entrevista",
+          "dicas entrevista"
+        ],
+        "resposta": "Antes da entrevista, pesquise sobre a empresa e procure entender quais atividades ela realiza. Leia novamente os requisitos da vaga e pense em exemplos que demonstrem suas habilidades, como organização, responsabilidade e facilidade para trabalhar em equipe. Prepare respostas para perguntas comuns, como 'Fale um pouco sobre você' e 'Por que deseja trabalhar nesta empresa?'. Se ainda não tiver experiência profissional, você pode falar sobre atividades escolares, cursos e outras experiências que demonstrem suas capacidades. Escolha uma roupa adequada ao ambiente da empresa, confira o endereço ou link da entrevista e procure chegar com antecedência. Durante a conversa, seja educado, escute com atenção e responda com sinceridade.",
+        "documentos": [
+          "Currículo atualizado",
+          "Documento de identificação, caso solicitado pela empresa",
+          "Certificados de cursos, caso sejam relevantes para a vaga"
+        ],
+        "onde": "A entrevista pode acontecer presencialmente na empresa ou por plataformas de videoconferência, conforme a orientação do recrutador.",
+        "fonte": "https://sine.pb.gov.br/informacoes/documentos/informacoes-relevantes-para-o-trabalhador?",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 9,
+        "categoria": "Preparação profissional",
+        "titulo": "Como se comportar no ambiente de trabalho?",
+        "palavras_chave": [
+          "comportamento trabalho",
+          "ambiente de trabalho",
+          "postura profissional",
+          "convivencia profissional",
+          "primeiro emprego"
+        ],
+        "resposta": "Para ter uma boa convivência no ambiente de trabalho, é importante ser pontual, respeitar colegas e superiores e cumprir as tarefas combinadas. Mantenha uma comunicação educada, escute as orientações recebidas e tire dúvidas quando não entender alguma atividade. Evite fofocas, discussões desnecessárias e o uso excessivo do celular durante o expediente. Também procure manter seu espaço organizado, respeitar as regras da empresa e demonstrar disposição para aprender. Caso cometa algum erro, seja sincero e procure orientação para corrigi-lo. Lembre-se de que, principalmente no primeiro emprego, é normal ter dúvidas e precisar de ajuda.",
+        "documentos": [
+          "Contrato de trabalho",
+          "Orientações e regras internas da empresa, quando disponibilizadas"
+        ],
+        "onde": "As orientações podem ser esclarecidas com o supervisor, gestor ou profissional responsável pelo treinamento na própria empresa.",
+        "fonte": "https://unifor.br/web/melhor-profissao/como-se-portar-no-trabalho-saiba-como-seu-comportamento-pode-ser-a-chave-para-uma-carreira-de-sucesso",
+        "verificado_em": "2026-11-05"
+    },
+
+    {
+        "id": 10,
+        "categoria": "Preparação profissional",
+        "titulo": "Como identificar uma vaga de emprego falsa?",
+        "palavras_chave": [
+          "vaga falsa",
+          "golpe emprego",
+          "vaga de emprego falsa",
+          "primeiro emprego",
+          "fraude recrutamento"
+        ],
+        "resposta": "Ao procurar o primeiro emprego, é importante ter cuidado com anúncios de vagas falsas. Desconfie de propostas que prometem salários muito altos para atividades simples ou garantem contratação imediata sem entrevista. Verifique se a empresa realmente existe, procure informações sobre ela em seus canais oficiais e confira se o anúncio também aparece em seus meios de divulgação. Nunca pague taxas para participar de processos seletivos, realizar entrevistas ou garantir uma vaga. Também evite enviar documentos pessoais, dados bancários ou informações confidenciais para contatos desconhecidos. Se desconfiar de uma oportunidade, interrompa o contato e procure confirmar a vaga diretamente com a empresa.",
+        "documentos": [
+          "Não é necessário apresentar documentos para verificar se uma vaga é verdadeira",
+          "Consulte os canais oficiais da empresa antes de compartilhar dados pessoais"
+        ],
+        "onde": "Consulte o site oficial da empresa e seus canais de recrutamento. Também é possível verificar oportunidades em plataformas conhecidas de emprego.",
+        "fonte": "https://www.gupy.io/blog-do-emprego/vagas-falsas",
+        "verificado_em": "2026-11-05"
+    }
+]

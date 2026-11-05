@@ -1,0 +1,7 @@
+﻿data,origem,pergunta,orientacao_id,encontrou,ajudou,tentativas,segundos
+05/11/2026 14:58:57,terminal,Como faço para comprar uma casa?,,False,False,1,9.9
+05/11/2026 15:01:02,terminal,Como compro uma casa?,,False,False,1,22.4
+05/11/2026 15:02:23,terminal,Como consultar meu CPF?,,False,False,1,8.4
+05/11/2026 15:03:19,terminal,Como faço um cpf?,,False,False,1,5.8
+05/11/2026 15:24:21,terminal,Como fazer um currículo para o primeiro emprego?,7,True,True,1,13.7
+05/11/2026 15:24:47,terminal,Como aprender a cozinhar?,,False,False,1,19.0
