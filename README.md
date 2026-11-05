@@ -62,3 +62,24 @@ citizen-assist-ai/
 3. Abra a pasta do projeto no PyCharm ou em outro editor.
 4. Execute o arquivo `main.py`.
 5. Utilize o menu apresentado no terminal para fazer perguntas, navegar pelas categorias, consultar indicadores e exportar o histórico.
+
+## 8. Regra de pontuação da busca
+
+O assistente utiliza um sistema de pontuação para identificar a orientação mais relacionada à pergunta do usuário.
+
+- Cada palavra-chave encontrada na pergunta adiciona **3 pontos**.
+- Cada palavra da pergunta com pelo menos 4 caracteres que também aparece no título da orientação adiciona **1 ponto**.
+- Resultados com 6 pontos ou mais recebem classificação de confiança alta.
+- Resultados com 3 a 5 pontos recebem classificação de confiança média.
+- Resultados com menos de 3 pontos não são apresentados como respostas encontradas.
+
+Os resultados são organizados em ordem decrescente de pontuação, priorizando as orientações mais relevantes.
+
+## 9. Limitações do sistema
+
+- O assistente depende das informações cadastradas na base de conhecimento.
+- Perguntas formuladas com palavras muito diferentes das palavras-chave cadastradas podem não encontrar uma orientação adequada.
+- O sistema não substitui canais oficiais de atendimento nem profissionais especializados.
+- As informações devem ser verificadas periodicamente para evitar desatualizações.
+- O assistente funciona pelo terminal e não possui interface gráfica.
+
